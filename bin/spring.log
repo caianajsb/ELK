@@ -1,0 +1,15 @@
+2025-01-09T10:44:22.549-03:00  INFO 7328 --- [caiana] [main] com.ifpb.caiana.CaianaApplicationTests   : Starting CaianaApplicationTests using Java 21.0.4 with PID 7328 (started by caian in C:\Users\caian\Downloads\caiana\caiana)
+2025-01-09T10:44:22.551-03:00  INFO 7328 --- [caiana] [main] com.ifpb.caiana.CaianaApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2025-01-09T10:44:24.446-03:00  INFO 7328 --- [caiana] [main] com.ifpb.caiana.CaianaApplicationTests   : Started CaianaApplicationTests in 2.398 seconds (process running for 4.086)
+2025-01-09T10:45:51.980-03:00  INFO 17568 --- [caiana] [main] com.ifpb.caiana.CaianaApplicationTests   : Starting CaianaApplicationTests using Java 21.0.4 with PID 17568 (started by caian in C:\Users\caian\Downloads\caiana\caiana)
+2025-01-09T10:45:51.985-03:00  INFO 17568 --- [caiana] [main] com.ifpb.caiana.CaianaApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2025-01-09T10:45:53.498-03:00  INFO 17568 --- [caiana] [main] com.ifpb.caiana.CaianaApplicationTests   : Started CaianaApplicationTests in 1.927 seconds (process running for 3.049)
+2025-01-09T10:45:57.184-03:00  INFO 1088 --- [caiana] [main] com.ifpb.caiana.CaianaApplication        : Starting CaianaApplication using Java 21.0.4 with PID 1088 (C:\Users\caian\Downloads\caiana\caiana\target\classes started by caian in C:\Users\caian\Downloads\caiana\caiana)
+2025-01-09T10:45:57.187-03:00  INFO 1088 --- [caiana] [main] com.ifpb.caiana.CaianaApplication        : No active profile set, falling back to 1 default profile: "default"
+2025-01-09T10:45:58.055-03:00  INFO 1088 --- [caiana] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-01-09T10:45:58.075-03:00  INFO 1088 --- [caiana] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-09T10:45:58.077-03:00  INFO 1088 --- [caiana] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-09T10:45:58.148-03:00  INFO 1088 --- [caiana] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-01-09T10:45:58.149-03:00  INFO 1088 --- [caiana] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 906 ms
+2025-01-09T10:45:58.491-03:00  INFO 1088 --- [caiana] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-01-09T10:45:58.498-03:00  INFO 1088 --- [caiana] [main] com.ifpb.caiana.CaianaApplication        : Started CaianaApplication in 1.751 seconds (process running for 2.1)
